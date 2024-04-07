@@ -7,7 +7,17 @@
     },
     "password": {
         "password":"43691790"
+    },
+    "cc_pdf_input_location": {
+        "cc_pdf_input_location":"C:\\Users\\pc\\Desktop\\Dheeraj\\Finance analysis\\pdf\\credit card\\input\\"
+    },
+    "cc_csv_output_location": {
+        "cc_csv_output_location":"C:\\Users\\pc\\Desktop\\Dheeraj\\Finance analysis\\pdf\\credit card\\output\\"
+    },
+    "cc_password": {
+        "cc_password":"DHEE1303"
     }
 
 
-}
+
+}   
